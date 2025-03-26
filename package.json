@@ -8,5 +8,10 @@
   },
   "devDependencies": {
     "supabase": "^2.1.1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "@supabase/mcp-server-postgrest": "^0.1.0",
+    "@supabase/mcp-utils": "^0.1.0"
   }
 }
